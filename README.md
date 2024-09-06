@@ -11,7 +11,7 @@ To develop a comprehensive Excel-based analytics dashboard that provides actiona
 ### FINDINGS
 
 #### Product Performance
-The to revenue genrator is Barista Espresso($60,355.20) and the best selling product is Brewed Chai Tea(12,1117 transactions) while Favored syrups perfomed poorly with 3,860 transactions.
+The top revenue generator was Barista Espresso($60,355.20) and the best selling product was Brewed Chai Tea(12,1117 transactions) while Favored syrups perfomed poorly with 3,860 transactions.
 #### Customer Traffic Patterns 
 The peak hours were between 10-11Am  with Friday being the busiest day(14,841 transactions) and Saturday the slowest day(13,788 tranactions).
 #### Seasonal Trends
@@ -19,3 +19,22 @@ The highest gross revenue was made in the month of June($112040.19) with January
 #### Category Analysis
 The dorminant product category was Coffee(40,212 transactions) and Tea the second highest  with 31,537 transactions.
 
+### RECOMMENDATIONS
+
+#### Product Optimization
+Promote high-margin espresso drinks during peak hours.
+Develop marketing strategies to boost chai tea sales further.
+Reassess the flavored syrup offerings; consider discontinuing low performers and invest in high performers.
+#### Staffing and Operations
+Increase staff during 10-11 AM peak and on Fridays to ensure seamless service.
+Implement targeted promotions for Saturdays to boost traffic and ensure increase in transactions.
+Cross-train staff on efficient espresso preparation to meet high demand.
+#### Seasonal Strategies
+Prepare for increased demand in June; ensure adequate inventory and staffing.
+Develop winter-specific promotions to boost January sales and create traffic.
+#### Menu Development
+Expand coffee options to capitalize on category dominance.
+Introduce tea and coffee pairing promotions to leverage the popularity of both categories.
+#### Customer Experience
+Implement a loyalty program focused on repeat purchases of top-selling items.
+Optimize store layout to improve flow during peak hours, especially for espresso and chai tea stations.
