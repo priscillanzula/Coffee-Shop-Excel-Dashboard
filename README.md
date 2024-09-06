@@ -9,6 +9,13 @@ Created an advanced Excel dashboard to analyze and visualize sales data, custome
 To develop a comprehensive Excel-based analytics dashboard that provides actionable insights for optimizing operations, enhancing customer experience, and increasing profitability across multiple New York City coffee shop locations.
 
 
+### DASHBOARD LAYOUT
+The dashboard is designed as a single-page view in Excel, providing a comprehensive yet concise overview of the coffee shop's performance. 
+It uses a combination of charts, tables, and KPI indicators to present data in an easily digestible format.
+All charts and tables are linked to the store location dropdown and date range selector
+Slicers are used for additional filtering options (e.g., by product category)
+
+
 ### FINDINGS
 
 #### Product Performance
