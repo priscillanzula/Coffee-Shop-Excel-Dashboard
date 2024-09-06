@@ -8,6 +8,7 @@ Created an advanced Excel dashboard to analyze and visualize sales data, custome
 ### PROJECT OBJECTIVE
 To develop a comprehensive Excel-based analytics dashboard that provides actionable insights for optimizing operations, enhancing customer experience, and increasing profitability across multiple New York City coffee shop locations.
 
+
 ### FINDINGS
 
 #### Product Performance
@@ -18,6 +19,7 @@ The peak hours were between 10-11Am  with Friday being the busiest day(14,841 tr
 The highest gross revenue was made in the month of June($112040.19) with January($55,134.31) being the lowest grossing month.
 #### Category Analysis
 The dorminant product category was Coffee(40,212 transactions) and Tea the second highest  with 31,537 transactions.
+
 
 ### RECOMMENDATIONS
 
